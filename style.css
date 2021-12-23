@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(220, 223, 230);
+}
+h1 {
+  text-align: center;
+}
+.describe {
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  margin: 1%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+img {
+  width: 70%;
+  height: auto;
+}
+#image {
+  max-width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img-caption {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
